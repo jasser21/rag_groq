@@ -1,0 +1,15 @@
+# Dev environment
+pip
+autopep8
+
+# App
+langchain_core
+langchain
+langchain-google-genai # This package contains the LangChain integrations for the Gemini API.
+Pillow # PIL image-loading library
+langchain_groq
+langchain_community
+tiktoken 
+langchainhub 
+chromadb 
+bs4
