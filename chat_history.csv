@@ -1,0 +1,61 @@
+timestamp,user_id,query,response
+2025-05-13 22:29:56,guest,je suis entraint de penser a etudier a l'iset mais je sais pas quel parcour a suivre. tu conseil de quoi,"L'ISET de Sfax propose des formations dans les domaines suivants : Sciences Economiques et de Gestion, Technologies de l’Informatique, Génie des Procédés, Génie Civil et Génie Mécanique.  Le choix du parcours dépendra de vos centres d'intérêt et de vos aspirations professionnelles.  Pour vous conseiller au mieux, j'aurais besoin de plus d'informations sur vos préférences."
+2025-05-13 22:30:21,guest,quel el la coordinateur de master ASSCC ,Le coordinateur du MASTER ASSC est M. Hassan BEN AYED.
+2025-05-13 22:30:35,guest,donne moi son email ,I need more information to answer your question.  Whose email address are you requesting?
+2025-05-13 22:31:04,guest,"donne moi le mail de hassan ben ayed, et donner le mail de FAIZ charfi",I couldn't find the email address for Hassan Ben Ayed in my information sources.  The email address for Faiez Charfi is faiez.charfi@sfax.r-iset.tn.
+2025-05-13 22:32:15,guest,c'est quoi le coordinateur asscc,My NLTK knowledge base is empty. Please try the RAG model or provide feedback to help me learn!
+2025-05-13 22:33:03,guest,"donne moi le mail de hassan ben ayed, et donner le mail de FAIZ charfi
+","ERROR: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/mainuser/nltk_data'
+    - '/home/mainuser/rag_groq/venv/nltk_data'
+    - '/home/mainuser/rag_groq/venv/share/nltk_data'
+    - '/home/mainuser/rag_groq/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+"
+2025-05-13 22:47:36,guest,quel sont tous les departements de l'iset sfax.,"L'ISET de Sfax possède 5 départements :
+
+* Sciences Economiques et de Gestion
+* Technologie de l'Informatique
+* Génie des Procédés
+* Génie Civil
+* Génie Mécanique",RAG
+2025-05-13 22:48:17,guest,quel sont les programmes pour le departement informatique,"Le département informatique de l'ISET Sfax propose une Licence Appliquée en Technologies de l'Informatique avec trois filières : Développement des Systèmes Informatiques (DSI), Réseaux et Systèmes Informatiques (RSI), et Systèmes Embarqués et Mobiles (SEM).  Il propose également deux Masters Professionnels en Technologies de l'Informatique : un Master DSIR (Développement des Systèmes d’Informations et Réseaux) avec deux spécialités (Réseaux Informatiques & Nouvelles Technologies et Génie Logiciel & Nouvelles Technologies), et un Master ASSC (Administration des Systèmes, Sécurité et Cloud Computing) avec deux spécialités (non précisées dans le texte).",RAG
+2025-05-13 22:49:30,guest,do poetry about iset,I couldn't find the answer to that in my information sources.,RAG
+2025-05-13 22:51:12,guest,qui est le chef de departement de l'informatique,Le chef de département de Technologies de l'Informatique est Mohamed ELLEUCH.,RAG
+2025-05-13 22:52:09,guest,"qui est le chef de departement de l'informatique
+
+",Le chef de département de Technologies de l'Informatique est Mohamed ELLEUCH.,NLTK
+2025-05-13 22:52:33,guest,quel sont tous les departements de l'iset sfax.,"L'ISET de Sfax possède 5 départements :
+
+* Sciences Economiques et de Gestion
+* Technologie de l'Informatique
+* Génie des Procédés
+* Génie Civil
+* Génie Mécanique",NLTK
+2025-05-13 22:57:18,guest,qui est charfi faiz,I don't have a specific answer for that in my NLTK knowledge base. Try switching to the RAG model!,NLTK
+2025-05-13 23:22:41,guest,quel est le nombre d'etudiant de  l'iset,I don't have a specific answer for that in my NLTK knowledge base. Try switching to the RAG model!,NLTK
+2025-05-13 23:23:15,guest,quel est le nombre d'etudiant de l'iset,L'ISET de Sfax compte plus de 2000 étudiants.,RAG
+2025-05-14 00:40:40,guest,"quel est le nombre d'etudiant de l'iset
+
+",L'ISET de Sfax compte plus de 2000 étudiants.,NLTK
+2025-05-14 00:46:53,guest,nombre de classe dans l'iset ,L'ISET de Sfax compte plus de 2000 étudiants.,NLTK
+2025-05-14 00:47:14,guest,"nombre de classe dans l'iset
+
+",L'ISET de Sfax possède 60 salles d'enseignement.  Le nombre de classes n'est pas spécifié.,RAG
+2025-05-14 05:20:16,guest,bonjour,Bonjour !,RAG
