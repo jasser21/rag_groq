@@ -59,3 +59,12 @@ timestamp,user_id,query,response
 
 ",L'ISET de Sfax possède 60 salles d'enseignement.  Le nombre de classes n'est pas spécifié.,RAG
 2025-05-14 05:20:16,guest,bonjour,Bonjour !,RAG
+2025-05-14 05:50:31,guest,quel est le nombre de renseignants a l'iset,L'ISET de Sfax compte plus de 2000 étudiants.,NLTK
+2025-05-14 05:50:48,guest,"quel est le nombre de renseignants a l'iset
+
+",I couldn't find the answer to that in my information sources.,RAG
+2025-05-14 05:51:04,guest,nombre de professeurs a l'iset ,I couldn't find the answer to that in my information sources.,RAG
+2025-05-14 05:51:30,guest,nombre des stades,Il y a 3 terrains de sport à l'ISET de Sfax.,RAG
+2025-05-14 05:51:51,guest,nombre de stade a l'iset,L'ISET de Sfax compte plus de 2000 étudiants.,NLTK
+2025-05-14 05:52:09,guest,nombre de stade a l'iset,Il y a 3 terrains de sport à l'ISET de Sfax.,RAG
+2025-05-14 05:52:33,guest,nombre de stade a l'iset,Il y a 3 terrains de sport à l'ISET de Sfax.,NLTK

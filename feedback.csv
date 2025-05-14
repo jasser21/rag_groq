@@ -15,3 +15,4 @@ timestamp,query,response,rating,comments
 2025-05-14 00:43:15,"quel est le nombre d'etudiant de l'iset
 
 ",L'ISET de Sfax compte plus de 2000 étudiants.,thumbs_up,,NLTK
+2025-05-14 05:52:16,nombre de stade a l'iset,Il y a 3 terrains de sport à l'ISET de Sfax.,thumbs_up,,RAG

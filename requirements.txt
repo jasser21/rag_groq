@@ -12,5 +12,6 @@ langchain_community
 tiktoken 
 langchainhub 
 chromadb 
-langchain_groq
 bs4
+nltk
+scikit-learn
